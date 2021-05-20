@@ -1,4 +1,4 @@
-'''
+"""
 Sign your name:Ian Neyens
 
 1.) How do you enter a single line comment in a program? Give an example.
@@ -46,4 +46,4 @@ ave
 
 ave = (x+y+z)/3
 
-'''
+"""
